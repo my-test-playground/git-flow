@@ -1,9 +1,9 @@
 # git flow
 Demo project
 
-# Version
+### Version
 
-0.1.0
+0.2.1
 
 # license
 this project licensed under MIT license
